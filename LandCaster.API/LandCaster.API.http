@@ -1,0 +1,6 @@
+@LandCaster.API_HostAddress = http://localhost:5147
+
+GET {{LandCaster.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
